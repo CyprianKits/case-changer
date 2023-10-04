@@ -1,5 +1,5 @@
 {
-  "name": "case-changer",
+  "name": "case-changer256",
   "version": "1.0.1",
   "description": "a simple library that takes in a name and returns the name of a person with initial characters in upper case",
   "main": "index.js",
