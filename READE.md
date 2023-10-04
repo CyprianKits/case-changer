@@ -1,6 +1,6 @@
 #case-changer256
 
-## A light weight library that takes in a string and returns it in word with initial characters of each word upper cased.
+## A light weight library that takes in a string and returns it in sentence form with initial characters of each word upper cased.
 
 #Installation
 
